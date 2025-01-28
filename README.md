@@ -22,14 +22,14 @@ RemoteHub is a modern platform connecting remote workers with global opportuniti
 	- Application tracking
 	- Candidate management
 
-![Job Management](./public/assets/Screenshot 2025-01-28 at 11.35.41.png)
+![Job Management](./public/assets/Screenshot%202025-01-28%20at%2011.35.41.png)
 
 - **User Dashboard**
 	- Personalized experience
 	- Application history
 	- Profile management
 
-![User Dashboard*](./public/assets/Screenshot 2025-01-28 at 11.12.25.png)
+![User Dashboard*](./public/assets/Screenshot%202025-01-28%20at%2011.12.25.png)
 
 ## 💻 Technology Stack
 
