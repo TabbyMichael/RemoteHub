@@ -1,5 +1,5 @@
 import React from 'react';
-import { GlobeIcon, Users, Shield, Heart } from 'lucide-react';
+import { GlobeIcon, Users, Shield } from 'lucide-react';
 
 export default function AboutUs() {
   return (
