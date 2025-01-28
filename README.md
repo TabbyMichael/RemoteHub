@@ -6,7 +6,7 @@
 
 RemoteHub is a modern platform connecting remote workers with global opportunities, featuring robust privacy protection and seamless job matching.
 
-![RemoteHub Dashboard](public/assets/Screenshot 2025-01-28 at 11.11.22.png)
+![RemoteHub Dashboard](./public/assets/Screenshot%202025-01-28%20at%2011.11.22.png)
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@ RemoteHub is a modern platform connecting remote workers with global opportuniti
 	- Transparent privacy policies
 	- User data control options
 
-![Privacy Features](public/assets/Screenshot 2025-01-28 at 11.13.45.png)
+![Privacy Features](./public/assets/Screenshot%202025-01-28%20at%2011.13.45.png)
 
 - **Job Management**
 	- Easy job posting
@@ -59,11 +59,11 @@ npm run dev
 
 ### Privacy Policy Page
 
-![Privacy Policy](public/assets/Screenshot 2025-01-28 at 11.13.45.png)
+![Privacy Policy](./public/assets/Screenshot%202025-01-28%20at%2011.13.45.png)
 
 ### User Dashboard
 
-![User Dashboard](public/assets/Screenshot 2025-01-28 at 11.11.56.png)
+![User Dashboard](./public/assets/Screenshot%202025-01-28%20at%2011.11.56.png)
 
 ## 🔒 Privacy First
 
